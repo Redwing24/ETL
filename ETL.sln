@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL_PROCESSES", "ETL_PROCESSES\ETL_PROCESSES.dtproj", "{0E0CD73E-F481-4BC8-BE7F-28976A2553BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0CD73E-F481-4BC8-BE7F-28976A2553BB}.Development|Default.ActiveCfg = Development
+		{0E0CD73E-F481-4BC8-BE7F-28976A2553BB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ETL_PROCESSES\\ETL_PROCESSES.dtproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = ETL_PROCESSES\\
+	EndGlobalSection
+EndGlobal
